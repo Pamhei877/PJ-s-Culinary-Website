@@ -1,4 +1,4 @@
-// Toggle Menu for Mobile View
+g// Toggle Menu for Mobile View
 const menuIcon = document.querySelector('.menu-icon');
 const navList = document.querySelector('.nav-list');
 
